@@ -1,0 +1,6 @@
+@ProtectWebApi_HostAddress = http://localhost:5020
+
+GET {{ProtectWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
